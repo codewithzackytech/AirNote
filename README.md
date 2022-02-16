@@ -1,5 +1,6 @@
 # AirNote
-# Note Taker App
+# Note Taker App 
+# That Can Make Your Note Data Safely
 # TESTED PLATFORM
 *Android 10.x ..
 *IOS 13.x
